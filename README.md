@@ -8,3 +8,14 @@ This bot is designed to assist you in solving Leetcode problems. With this bot y
 - Search Functionality: Search Functionality: Search for specific problems based on problem numbers.
 - Random Problems: Get random LeetCode problems to challenge yourself and enhance your problem-solving skills.
 - User-Friendly Interface: The bot provides an easy to interact interface.
+
+## Usage
+- /start : To start conversation with the bot
+- /help : To get information about how to use the bot.
+- question : A simple message to get a random leetcode problem link in your inbox
+- 0045 Python : A simple message of format 'Problem_number Language' to get the solution of problem in desired programming language.
+
+- You have 3 options for the selection of programming language:
+    - C++
+    - Java
+    - Python
